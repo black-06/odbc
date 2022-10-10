@@ -8,7 +8,7 @@ import (
 	"database/sql/driver"
 	"errors"
 
-	"github.com/duneanalytics/odbc/api"
+	"github.com/black-06/odbc/api"
 )
 
 type Tx struct {

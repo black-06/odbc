@@ -9,7 +9,7 @@ package odbc
 import (
 	"database/sql"
 
-	"github.com/duneanalytics/odbc/api"
+	"github.com/black-06/odbc/api"
 )
 
 var drv Driver

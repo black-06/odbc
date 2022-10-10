@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/duneanalytics/odbc"
+	_ "github.com/black-06/odbc"
 )
 
 var (

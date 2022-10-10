@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/duneanalytics/odbc/api"
+	"github.com/black-06/odbc/api"
 )
 
 type Stats struct {

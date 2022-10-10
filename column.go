@@ -11,7 +11,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/duneanalytics/odbc/api"
+	"github.com/black-06/odbc/api"
 )
 
 type BufferLen api.SQLLEN
