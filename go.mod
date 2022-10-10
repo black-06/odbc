@@ -1,4 +1,4 @@
-module github.com/duneanalytics/odbc
+module github.com/black-06/odbc
 
 go 1.17
 
